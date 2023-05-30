@@ -12,7 +12,7 @@ Finally, the third section of the book looks at the ways in which technology can
 
 Overall, this book aims to provide readers with a comprehensive understanding of the ways in which technology can be used to build strong teams and increase productivity in the workplace. By exploring the challenges and opportunities associated with these changes, we hope to inspire readers to think creatively about the role that technology can play in improving teamwork and productivity, while ensuring that employees remain engaged, fulfilled, and valued members of their organizations.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
