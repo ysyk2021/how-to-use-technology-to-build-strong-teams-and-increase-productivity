@@ -1,5 +1,3 @@
-Video Conferencing Tools
-=========================================================================================
 
 Effective communication is essential for any successful team collaboration. In today's globalized world, video conferencing tools have become an integral part of team communication, especially for remote teams. In this chapter, we will discuss some of the best video conferencing tools available in the market.
 

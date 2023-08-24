@@ -1,5 +1,3 @@
-Instant Messaging Platforms
-============================================================================================
 
 Effective communication is essential for any successful team collaboration. In today's fast-paced digital world, instant messaging platforms have become an integral part of team communication, especially for remote teams. In this chapter, we will discuss some of the best instant messaging platforms available in the market.
 

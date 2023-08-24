@@ -1,5 +1,3 @@
-Email Automation
-======================================================================
 
 Email is a ubiquitous communication tool in the workplace, but it can also be a time-consuming task. Email automation tools can help businesses increase efficiency by automating repetitive tasks and reducing the time spent on email management. In this chapter, we will discuss some of the most useful email automation tools for team building and productivity.
 

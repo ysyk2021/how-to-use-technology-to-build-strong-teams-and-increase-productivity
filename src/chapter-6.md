@@ -1,5 +1,3 @@
-Chapter 6: Data Analytics for Informed Decision Making
-======================================================
 
 Data analytics is the process of examining data sets to draw conclusions about the information they contain. It can be a powerful tool for businesses looking to make informed decisions and improve team building and productivity. In this chapter, we will discuss how data analytics can be used for informed decision making in team building and productivity.
 

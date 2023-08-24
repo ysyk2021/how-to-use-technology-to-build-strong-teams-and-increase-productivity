@@ -1,5 +1,3 @@
-Collaborative Document Editing Software
-===============================================================================================
 
 Collaborative document editing software is a powerful tool for team building and productivity. By enabling teams to create and edit documents together in real-time, these tools eliminate the need for lengthy email threads and version control issues. In this chapter, we will discuss some of the most popular collaborative document editing software tools available.
 

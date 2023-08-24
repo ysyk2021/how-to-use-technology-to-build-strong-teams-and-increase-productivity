@@ -1,5 +1,3 @@
-Workflow Automation
-=========================================================================
 
 Workflow automation tools can help businesses increase efficiency by automating repetitive tasks and streamlining workflows. These tools can save time, reduce errors, and improve productivity. In this chapter, we will discuss some of the most useful workflow automation tools for team building and productivity.
 

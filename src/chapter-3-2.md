@@ -1,5 +1,3 @@
-Kanban Boards
-===============================================================================
 
 Kanban boards are a visual project management tool that has become increasingly popular in recent years. Originally developed by Toyota for manufacturing processes, Kanban boards have since been adapted for use in software development, project management, and other industries. In this chapter, we will discuss how Kanban boards can help streamline workflows and improve productivity.
 

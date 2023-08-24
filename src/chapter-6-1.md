@@ -1,5 +1,3 @@
-Understanding Data Analytics
-====================================================================================
 
 Data analytics is a powerful tool for informed decision making in team building and productivity. By using data to inform decisions, businesses can reduce risk, improve efficiency, and achieve better outcomes. In this chapter, we will discuss what data analytics is and how it can be used to improve team building and productivity.
 

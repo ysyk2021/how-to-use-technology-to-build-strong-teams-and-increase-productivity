@@ -1,5 +1,3 @@
-Gantt Charts
-==============================================================================
 
 Gantt charts are a project management tool that has been used for decades to help teams plan and manage complex projects. With the help of technology, Gantt charts have become even more powerful, providing teams with real-time insights into project progress and timelines. In this chapter, we will discuss how Gantt charts can help streamline workflows and improve productivity.
 
