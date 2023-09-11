@@ -1,5 +1,4 @@
-Chapter 6: Collaborative Document Editing Software
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we journey through the transformative impact of collaborative document editing software on team dynamics and productivity. As technology has advanced, the way teams create, share, and edit documents has experienced a paradigm shift, fostering real-time collaboration and streamlined workflows.
 

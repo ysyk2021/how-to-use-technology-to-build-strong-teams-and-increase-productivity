@@ -1,5 +1,4 @@
-Chapter 7: Cloud-Based File Sharing Platforms
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we'll explore the significance of cloud-based file sharing platforms in facilitating teamwork, streamlining workflows, and increasing productivity. These platforms have revolutionized the way teams collaborate and manage their digital assets, offering secure and accessible solutions for storing and sharing files.
 

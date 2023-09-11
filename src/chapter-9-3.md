@@ -1,5 +1,4 @@
-Chapter 10: Training Employees for Effective Use
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Training employees to effectively utilize technology tools is a crucial component of building strong teams and increasing productivity. In this chapter, we'll delve into the importance of training and provide guidance on how to equip your team with the knowledge and skills needed to maximize the benefits of technology.
 

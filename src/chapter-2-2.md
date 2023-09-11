@@ -1,5 +1,4 @@
-Chapter 10: Instant Messaging Platforms
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we'll explore the pivotal role of instant messaging platforms in fostering communication, collaboration, and connectivity within teams. These platforms have become indispensable tools for modern workplaces, promoting real-time interactions and efficient information exchange.
 

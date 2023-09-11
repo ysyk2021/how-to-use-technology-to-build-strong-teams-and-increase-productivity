@@ -1,5 +1,4 @@
-Chapter 6: Best Practices for Keeping Data Safe
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the digital age, data is a critical asset for organizations striving to build strong teams and increase productivity. However, with great data comes great responsibility. Ensuring the security of your data is paramount. In this chapter, we will explore the best practices for keeping your data safe and protected.
 

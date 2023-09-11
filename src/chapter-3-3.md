@@ -1,5 +1,4 @@
-Chapter 5: Gantt Charts
-=======================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's fast-paced business environment, effective project management is crucial for building strong teams and increasing productivity. One of the most powerful tools in a project manager's arsenal is the Gantt chart. This chapter explores the importance of Gantt charts and how to effectively use them to streamline your team's workflow and boost productivity.
 

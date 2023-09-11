@@ -1,5 +1,4 @@
-Chapter 7: Task Management Tools
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the digital age, task management is at the core of building strong teams and increasing productivity. Task management tools, powered by technology, have become indispensable for organizing work, collaborating effectively, and ensuring projects are completed efficiently. In this chapter, we'll explore the world of task management tools and how they can revolutionize the way your team operates.
 

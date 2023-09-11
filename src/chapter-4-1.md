@@ -1,5 +1,4 @@
-Chapter 3: Benefits of Cloud Computing
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the myriad benefits that cloud computing offers for building strong teams and increasing productivity within organizations. Cloud technology has revolutionized the way businesses operate, providing scalable and flexible solutions that enhance collaboration, efficiency, and innovation.
 

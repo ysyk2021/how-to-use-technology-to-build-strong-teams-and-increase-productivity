@@ -1,5 +1,4 @@
-Chapter 8: Cybersecurity Training for Employees
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the modern workplace, cybersecurity is a shared responsibility. To build strong teams and increase productivity while safeguarding your organization's digital assets, it's crucial to provide comprehensive cybersecurity training for employees. In this chapter, we will explore the importance of such training and the key elements to consider.
 

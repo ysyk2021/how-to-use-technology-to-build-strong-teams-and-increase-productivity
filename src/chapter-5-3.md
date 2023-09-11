@@ -1,5 +1,4 @@
-Chapter 11: Automated Data Entry
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative potential of automated data entry in streamlining processes, reducing human error, and increasing productivity within teams. Automated data entry tools and techniques empower organizations to efficiently capture, process, and utilize data, ultimately strengthening team collaboration and decision-making.
 

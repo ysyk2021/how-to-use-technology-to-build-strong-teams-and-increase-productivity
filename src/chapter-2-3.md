@@ -1,5 +1,4 @@
-Chapter 9: Video Conferencing Tools
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the world of video conferencing tools, which have become integral in building strong teams and boosting productivity, especially in today's remote and hybrid work environments. These tools facilitate face-to-face interactions, foster collaboration, and bridge geographical divides.
 

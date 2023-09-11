@@ -1,5 +1,4 @@
-Chapter 6: Kanban Boards
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the quest to build strong teams and increase productivity using technology, it's essential to explore agile project management methodologies. Among these, the Kanban system stands out as a powerful tool for enhancing workflow efficiency and team collaboration. In this chapter, we delve into the concept of Kanban boards and how they can revolutionize the way your team manages tasks and projects.
 

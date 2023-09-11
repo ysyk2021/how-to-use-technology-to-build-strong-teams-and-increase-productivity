@@ -1,5 +1,4 @@
-Chapter 7: Workflow Automation
-==============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the pursuit of building strong teams and increasing productivity, embracing technology is essential. One of the most powerful ways to achieve this is through workflow automation. In this chapter, we will delve into the significance of workflow automation and how it can revolutionize the way your team operates.
 

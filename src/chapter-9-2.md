@@ -1,5 +1,4 @@
-Chapter 9: Selecting the Right Tools
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Selecting the right technology tools is a critical step in the journey to build strong teams and increase productivity. In this chapter, we'll explore the process of choosing the most suitable tools and software for your team's unique needs and objectives.
 

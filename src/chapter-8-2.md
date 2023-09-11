@@ -1,5 +1,4 @@
-Chapter 11: Employee Resistance
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introducing new technologies and tools often brings forth various challenges. One of the most significant hurdles that organizations encounter is employee resistance. Addressing this resistance is paramount to fully leverage technology for building stronger teams and boosting productivity. In this chapter, we will explore the reasons behind such resistance and offer strategies to mitigate it.
 

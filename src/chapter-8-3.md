@@ -1,5 +1,4 @@
-Chapter 12: Budget Constraints
-==============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While the potential benefits of leveraging technology to build strong teams and increase productivity are substantial, the reality often involves working within budget constraints. In this chapter, we'll explore the challenges posed by budget limitations and provide strategies for making the most of your resources.
 

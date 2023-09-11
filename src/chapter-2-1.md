@@ -1,5 +1,4 @@
-Chapter 8: Email Alternatives
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we'll explore alternative communication and collaboration tools that can revolutionize the way teams work together, offering more efficient and productive alternatives to traditional email communication.
 

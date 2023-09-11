@@ -1,5 +1,4 @@
-Chapter 8: Assessing Current Needs and Workflows
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Before embarking on the journey to build strong teams and increase productivity using technology, it's imperative to gain a comprehensive understanding of your team's current needs and workflows. In this chapter, we explore the importance of assessing your team's existing processes and identifying areas for improvement as the foundational step towards leveraging technology effectively.
 
